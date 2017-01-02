@@ -1,4 +1,5 @@
 # hello-world
 My first repository: an introduction to GitHub 
 
-About the author: looking to learn general web-development / app-development skills 
+
+A little bit about myself: dob - 1986, Master in Business & Marketing, interested in web-dev and app-dev to give birth to a few projects
